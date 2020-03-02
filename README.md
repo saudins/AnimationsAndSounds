@@ -1,3 +1,2 @@
 # AnimationsAndSounds
-Fun project to test paper.js
-Use https://saudins.github.io/AnimationsAndSounds/index.html for the app
+Fun project to test paper.js and howler.js
